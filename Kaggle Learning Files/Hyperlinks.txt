@@ -1,0 +1,6 @@
+https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset/notebook
+https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard/notebook
+https://www.kaggle.com/pmarcelino/data-analysis-and-feature-extraction-with-python
+https://www.kaggle.com/kabure/predicting-house-prices-xgb-rf-bagging-reg-pipe/notebook
+https://www.kaggle.com/arthurtok/feature-ranking-rfe-random-forest-linear-models/notebook
+https://www.kaggle.com/eliekawerk/regression-to-predict-house-prices
